@@ -6,9 +6,18 @@ body {
     justify-content: center;
     align-items: center;
 }
-.box{
+
+.box {
     width: 200px;
     height: 200px;
     background: red;
     margin: 20px;
+}
+
+.dark-mode {
+    background-color: black;
+}
+
+.box1 {
+    background-color: blue;
 }
